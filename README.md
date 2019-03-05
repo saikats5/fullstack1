@@ -25,3 +25,5 @@ pwd //print working directory
 REPL // Read Evaluation Print Loop // Node REPL comes with node installation
 node enter to go to REPL, it's similiar to chrome console // use tab to get possible commands
 //to exit // .exit // ctrl + c // clear 
+
+npm init
