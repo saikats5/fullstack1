@@ -9,6 +9,7 @@
   "author": "Saikat Saha <saikats_5@yahoo.co.in>",
   "license": "MIT",
   "dependencies": {
+    "body-parser": "1.18.3",
     "express": "4.16.4"
   }
 }
