@@ -27,3 +27,21 @@ node enter to go to REPL, it's similiar to chrome console // use tab to get poss
 //to exit // .exit // ctrl + c // clear 
 
 npm init
+
+nodemon is for automatic reload on changes so instead of node index.js, nodemon index.js
+
+npm install body-parser // allow us to pass data from post
+
+bodyparser has few modes i.e., .text, .json, .urlencoded(data from html form)(extended: true // post nested objects)
+
+//ls
+//touch abc.txt
+//open abc.txt
+//vim // open the file in terminal
+//git init // to initialize git
+//ls -a // will show the hidden files as well // .git - is a hidden file // working directory
+// git status // staging area is intermediate place to check what needs to be committed // untracked files in red
+//git add abc.txt // to move the file to staging area // in green
+//git commit -m "message" // commit
+//git log // to check commits // commit hash
+//git add . // to stage all files 
