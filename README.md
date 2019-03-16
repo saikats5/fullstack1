@@ -44,4 +44,9 @@ bodyparser has few modes i.e., .text, .json, .urlencoded(data from html form)(ex
 //git add abc.txt // to move the file to staging area // in green
 //git commit -m "message" // commit
 //git log // to check commits // commit hash
-//git add . // to stage all files 
+//git add . // to stage all files
+
+//working directory -> staging area -> local repository
+
+//git diff abc.txt
+//git checkout abc.txt // to rollback
