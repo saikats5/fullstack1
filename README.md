@@ -50,3 +50,16 @@ bodyparser has few modes i.e., .text, .json, .urlencoded(data from html form)(ex
 
 //git diff abc.txt
 //git checkout abc.txt // to rollback
+
+//git remote add origin https://github.com/project.git // origin is the name given by us it can be anything
+//git push -u origin master
+
+//.git // local repository
+//github // remote repository
+
+//touch .gitignore
+//git rm --cached -r . // to remove everything from staging area
+
+//in .gitignore file // specify each file on each line and # to comment // *.txt to ignore all files with txt extension
+
+//git clone https://github.com/project.git // to clone the project
